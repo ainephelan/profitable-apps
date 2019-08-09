@@ -14,9 +14,9 @@ Over the course of this project we will analyze data to help our developers unde
 ## Skills / Libraries / Tools
 Note, we will only employ the standard Python library in this project, using the below to performing some practical data analysis:
 
-Some Python basics (arithmetical operations, variables, common data types, etc.)
-List and for loops
-Conditional statements
-Dictionaries and frequency tables
-Functions
-Jupyter Notebook
+- Some Python basics (arithmetical operations, variables, common data types, etc.)
+- List and for loops
+- Conditional statements
+- Dictionaries and frequency tables
+- Functions
+- Jupyter Notebook

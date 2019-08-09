@@ -1,7 +1,7 @@
 # profitable-apps
 Analyse app data to find profitable app profiles for the iOS and Android markets.
 
-## Context¶
+## Context
 We're working as data analysts for a company that builds Android and iOS mobile apps, and our job is to enable our team of developers to make data-driven decisions with respect to the kind of apps they build.
 
 ## Aim

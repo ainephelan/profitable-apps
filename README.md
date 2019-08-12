@@ -1,5 +1,5 @@
 # profitable-apps
-Analyse app data to find profitable app profiles for the iOS and Android markets
+Analyse app data to find profitable app profiles for the iOS and Android markets  
 Completed 16-Feb-2019  
 
 ## Context
